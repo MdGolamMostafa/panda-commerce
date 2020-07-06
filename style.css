@@ -22,6 +22,7 @@
 }
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
+    border-radius: 6px;
 }
 .cat1{
     background-color: orange;
@@ -41,4 +42,13 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+#subcribe{
+    height: 300px;
+}
+#subcribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
